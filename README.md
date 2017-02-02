@@ -4,7 +4,10 @@ having porting the data into MongoDB database.
 
 #Libraries Included
 
-ExpressJS Realtime MVC Framework for Node.js
+ExpressJS Realtime MVC Framework for Node.js.
+
 Mongoose for the database.
+
 Stripe for online payment.
+
 Passport is authentication middleware for Node.js
